@@ -13,6 +13,6 @@ if(a>b)
 System.out.println("largest number is="+a);
 return;
 }
-System.out.println("Largest number is="+0b);
+System.out.println("Largest number is="+b);
 }
 }
